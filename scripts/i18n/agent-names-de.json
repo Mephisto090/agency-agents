@@ -1,0 +1,1058 @@
+{
+  "3D & Scene Developer": {
+    "name": "3D- und Szenenentwickler",
+    "description": "Web-3D-Visualisierungsspezialist, der immersive 3D-Szenen, Geländemodelle, Punktwolkenvisualisierungen und interaktive Web-Erlebnisse mit Cesium, ArcGIS Scene Viewer und modernen 3D-Web-Frameworks erstellt."
+  },
+  "Accessibility Auditor": {
+    "name": "Barrierefreiheits-Auditor",
+    "description": "Experte für Barrierefreiheit, der Schnittstellen anhand der WCAG-Standards überprüft, Tests mit Hilfstechnologien durchführt und inklusives Design sicherstellt."
+  },
+  "Account Strategist": {
+    "name": "Account-Stratege",
+    "description": "Experten-Account-Stratege nach dem Verkauf, spezialisiert auf Land-and-Expand-Umsetzung, Stakeholder-Mapping, QBR-Moderation und Netto-Umsatz-Retention."
+  },
+  "Accounts Payable Agent": {
+    "name": "Kreditorenbuchhaltungs-Agent",
+    "description": "Autonome Spezialistin für Zahlungsabwicklung, die Lieferantenzahlungen, Rechnungen von Auftragnehmern und wiederkehrende Rechnungen über jede Zahlungsplattform hinweg ausführt — Krypto, Fiat, Stablecoins."
+  },
+  "Ad Creative Strategist": {
+    "name": "Werbekreativstratege",
+    "description": "Spezialist für bezahlte Medienkreation mit Schwerpunkt auf Anzeigentexten, RSA-Optimierung, Design von Asset-Gruppen und kreativen Testframeworks über Google, Meta, Microsoft und programmatische Plattformen."
+  },
+  "AEO Foundations Architect": {
+    "name": "AEO-Grundlagenarchitekt",
+    "description": "Experte für KI-Engine-Optimierungsinfrastruktur — implementiert llms.txt, KI-bewusste robots.txt, token-budgetierte Inhalte, strukturierte Markdown-Verfügbarkeit und Agenten-Entdeckungsdateien, damit KI-Crawler, Zitations-Engines und Browser-Agenten finden und parsen können"
+  },
+  "Agentic Identity & Trust Architect": {
+    "name": "Architekt für agentische Identität und Vertrauen",
+    "description": "Entwirft Identitäts-, Authentifizierungs- und Vertrauensüberprüfungssysteme für autonome KI-Agenten, die in Multi-Agenten-Umgebungen arbeiten."
+  },
+  "Agentic Search Optimizer": {
+    "name": "Agentischer Suchoptimierer",
+    "description": "Experte für WebMCP-Bereitschaft und agentische Aufgabenerfüllung — prüft, ob KI-Agenten Aufgaben auf Ihrer Website tatsächlich ausführen können (buchen, kaufen, registrieren, abonnieren), implementiert deklarative und imperative WebMCP-Muster"
+  },
+  "Agents Orchestrator": {
+    "name": "Agenten-Orchestrator",
+    "description": "Autonomer Pipeline-Manager, der den gesamten Entwicklungsworkflow orchestriert."
+  },
+  "Aging Parent Care Companion": {
+    "name": "Begleiter für die Pflege alternder Eltern",
+    "description": "Mitfühlende, HIPAA-konforme Koordination der Versorgung und Entscheidungsunterstützungsagent für familiäre Pflegekräfte, die die Termine, Medikamente, Kommunikation mit dem Pflegeteam eines alternden Elternteils und ihr eigenes Wohlbefinden als Pflegekraft verwalten"
+  },
+  "AI Citation Strategist": {
+    "name": "KI-Zitationsstratege",
+    "description": "Experte für die Optimierung von KI-Empfehlungsmaschinen (AEO/GEO) — prüft die Markenpräsenz auf ChatGPT, Claude, Gemini und Perplexity, identifiziert, warum Wettbewerber stattdessen zitiert werden, und liefert Inhaltskorrekturen, die KI-Zitate verbessern"
+  },
+  "AI Data Remediation Engineer": {
+    "name": "KI-Datenbereinigungsingenieur",
+    "description": "Spezialist für selbstheilende Datenpipelines — verwendet luftdicht abgeschottete lokale SLMs und semantisches Clustering, um Datenanomalien im großen Maßstab automatisch zu erkennen, zu klassifizieren und zu beheben."
+  },
+  "AI Engineer": {
+    "name": "KI-Ingenieur",
+    "description": "Experte für KI/ML-Ingenieurwesen mit Spezialisierung auf die Entwicklung, Bereitstellung und Integration von Machine-Learning-Modellen in Produktionssysteme."
+  },
+  "AI-Generated Code Security Auditor": {
+    "name": "KI-generierter Code-Sicherheitsprüfer",
+    "description": "Sicherheitsprüfer für KI-generierte und vibe-codierte Apps — sucht die hartcodierten Geheimnisse, gebrochenen Zeilenebenen-Sicherheiten und Prompt-Injection-Senken, die Coding-Assistenten standardmäßig ausliefern, und führt dann eine Schleife aus Scan, Behebung und erneuten Scans mit ehrlichen, CWE-zugeordneten Befunden durch."
+  },
+  "Analytics Reporter": {
+    "name": "Analytics-Reporter",
+    "description": "Erfahrener Datenanalyst, der Rohdaten in umsetzbare Geschäftseinblicke verwandelt."
+  },
+  "Anthropologist": {
+    "name": "Anthropologe",
+    "description": "Experte für kulturelle Systeme, Rituale, Verwandtschaft, Glaubenssysteme und ethnografische Methoden — erschafft kulturell kohärente Gesellschaften, die eher lebendig wirken als erfunden"
+  },
+  "API Platform Engineer": {
+    "name": "API-Plattform-Ingenieur",
+    "description": "Experten-API-Plattformingenieur für öffentliche und Partner-APIs — vertragsorientiertes Design (OpenAPI/gRPC), Versions- und Ausphasungspolitik, SDK-Generierung, API-Gateway-Angelegenheiten (Auth, Ratenbegrenzung, Kontingente) und Entwicklerportal-DX."
+  },
+  "API Tester": {
+    "name": "API-Tester",
+    "description": "Experte für API-Tests, spezialisiert auf umfassende API-Validierung, Leistungstests und Qualitätssicherung über alle Systeme und Drittanbieter-Integrationen hinweg"
+  },
+  "App Store Optimizer": {
+    "name": "App-Store-Optimierer",
+    "description": "Experte für App-Store-Marketing mit Schwerpunkt auf App-Store-Optimierung (ASO), Optimierung der Konversionsrate und Auffindbarkeit von Apps"
+  },
+  "Application Security Engineer": {
+    "name": "Anwendungssicherheitsingenieur",
+    "description": "AppSec-Spezialist, der den Softwareentwicklungszyklus durch Bedrohungsmodellierung, sichere Code-Überprüfung, SAST/DAST-Integration und Schulung von Entwicklern in Sicherheit absichert, sodass sicherer Code zur Standardpraxis wird."
+  },
+  "ATS Validator Architect": {
+    "name": "ATS-Validierungsarchitekt",
+    "description": "Architekt und Validator für Bewerber-Tracking-Systeme (ATS) und Lebenslaufparser."
+  },
+  "Automation Governance Architect": {
+    "name": "Architekt für Automatisierungs-Governance",
+    "description": "Governance-orientierter Architekt für Geschäftsautomatisierungen (n8n-orientiert), der den Wert, das Risiko und die Wartbarkeit vor der Implementierung prüft."
+  },
+  "Autonomous Optimization Architect": {
+    "name": "Autonomer Optimierungsarchitekt",
+    "description": "Intelligenter Systemverwalter, der APIs kontinuierlich im Schatten testet, um die Leistung zu überwachen und gleichzeitig strenge finanzielle und sicherheitstechnische Schutzmaßnahmen gegen außer Kontrolle geratene Kosten durchzusetzen."
+  },
+  "Backend Architect": {
+    "name": "Backend-Architekt",
+    "description": "Senior-Backend-Architekt, spezialisiert auf skalierbares Systemdesign, Datenbankarchitektur, API-Entwicklung und Cloud-Infrastruktur."
+  },
+  "Baidu SEO Specialist": {
+    "name": "Baidu-SEO-Spezialist",
+    "description": "Experte für Baidu-Suchmaschinenoptimierung, spezialisiert auf das Ranking in chinesischen Suchmaschinen, Integration in das Baidu-Ökosystem, ICP-Compliance, chinesische Keyword-Recherche und Mobile-First-Indexierung für den chinesischen Markt."
+  },
+  "Behavioral Nudge Engine": {
+    "name": "Behavioral-Nudge-Engine",
+    "description": "Spezialist für Verhaltenspsychologie, der die Interaktionsrhythmen und -stile von Software anpasst, um Motivation und Erfolg der Nutzer zu maximieren."
+  },
+  "Bilibili Content Strategist": {
+    "name": "Bilibili-Inhaltsstratege",
+    "description": "Experte für Bilibili-Marketing, spezialisiert auf das Wachstum von UP主, Beherrschung der Danmaku-Kultur, Optimierung des B站-Algorithmus, Community-Aufbau und Strategie für Markeninhalte für Chinas führende Video-Community-Plattform."
+  },
+  "BIM/GIS Specialist": {
+    "name": "BIM/GIS-Spezialist",
+    "description": "Integrationsspezialist, der Building Information Modeling und Geoinformationssysteme verbindet — Revit/IFC-Datenkonvertierung, Innenraummapping, digitale Zwillingsarchitektur und Datenmodelle für das Facility Management."
+  },
+  "Blockchain Security Auditor": {
+    "name": "Blockchain-Sicherheitsauditor",
+    "description": "Experte für die Sicherheit von Smart Contracts, spezialisiert auf die Erkennung von Schwachstellen, formale Verifikation, Exploit-Analysen und das Verfassen umfassender Auditberichte für DeFi-Protokolle und Blockchain-Anwendungen."
+  },
+  "Book Co-Author": {
+    "name": "Buch-Mitautor",
+    "description": "Mitarbeiter für strategische Meinungsführungsbücher für Gründer, Experten und Betreiber, die Sprachnotizen, Fragmente und Positionierungen in strukturierte Ich-Kapitel umwandeln."
+  },
+  "Bookkeeper & Controller": {
+    "name": "Buchhalter & Controller",
+    "description": "Experte für Buchhaltung und Controlling, spezialisiert auf tägliche Buchhaltungsoperationen, finanzielle Abstimmungen, Monatsabschlussprozesse und interne Kontrollen."
+  },
+  "Brand Guardian": {
+    "name": "Markenwächter",
+    "description": "Experte für Markenstrategie und Wächter, spezialisiert auf die Entwicklung der Markenidentität, die Aufrechterhaltung der Konsistenz und die strategische Markenpositionierung"
+  },
+  "Business Strategist": {
+    "name": "Geschäftsstratege",
+    "description": "Senior-Management-Consulting-Spezialist für Wettbewerbsanalyse, Markteintrittsstrategie, Geschäftsmodellgestaltung, Wachstumsplanung, Organisationsstrategie und strategische Entscheidungsfindung — komplexe Marktdynamiken in Klarheit übersetzend"
+  },
+  "Carousel Growth Engine": {
+    "name": "Carousel Growth Engine",
+    "description": "Spezialist für autonome Erstellung von TikTok- und Instagram-Karussells."
+  },
+  "Cartography Designer": {
+    "name": "Kartografie-Designer",
+    "description": "Kartengestaltungsspezialist, der schöne, gut lesbare und effektive Karten entwirft — Farbtheorie, Typografie, Beschriftungsplatzierung, Basiskartenauswahl und visuelle Hierarchie für Druck und Web."
+  },
+  "Change Management Consultant": {
+    "name": "Change-Management-Berater",
+    "description": "Experte für Change Management unter Verwendung der ADKAR-, Kotter- und Prosci-Rahmenwerke, um Organisationen durch Technologieimplementierungen, Umstrukturierungen, Kulturtransformationen und M&A-Integration zu führen — Widerstände zu managen und Akzeptanz aufzubauen"
+  },
+  "Chief Financial Officer": {
+    "name": "Finanzvorstand",
+    "description": "Strategischer Finanzvorstand, der die Kapitalallokation, Treasury-Operationen, Finanzplanung, M&A-Finanzierung, Investorenbeziehungen und Berichtswesen für den Aufsichtsrat steuert — Finanzkomplexität in klare Entscheidungen übersetzend, die die Unternehmensleistung und das Stakeholder-Engagement vorantreiben"
+  },
+  "Chief of Staff": {
+    "name": "Stabschef",
+    "description": "Hauptkoordinator für Gründer und Führungskräfte – filtert Lärm, übernimmt Prozesse, sorgt für Konsistenz, leitet Entscheidungen und positioniert Ergebnisse für Wirkung, sodass der Chef klar denken kann."
+  },
+  "China E-Commerce Operator": {
+    "name": "China-E-Commerce-Operator",
+    "description": "Experte für E-Commerce-Operationen in China, der die Ökosysteme von Taobao, Tmall, Pinduoduo und JD abdeckt und über tiefgehende Expertise in Produktlistungsoptimierung, Live-Commerce, Store-Operationen, 618/Double-11-Kampagnen und plattformübergreifender Strategie verfügt."
+  },
+  "China Market Localization Strategist": {
+    "name": "Stratege für die Lokalisierung im chinesischen Markt",
+    "description": "Vollumfänglicher China-Markt-Lokalisierungsexperte, der Echtzeit-Trendsignale in umsetzbare Markteinführungsstrategien über Douyin, Xiaohongshu, WeChat, Bilibili und darüber hinaus verwandelt"
+  },
+  "China Network Engineer": {
+    "name": "Netzwerkingenieur für China",
+    "description": "Experte für die gängigen Unternehmensnetzwerk-Stacks im chinesischen Festland — Huawei VRP, H3C Comware, Ruijie RGOS und Hillstone StoneOS — mit Kenntnissen in Routing, Switching, Firewalling, NAT und MLPS 2.0 (等保) konformer Randdesign für den Inlandseinsatz."
+  },
+  "Civil Engineer": {
+    "name": "Bauingenieur",
+    "description": "Fachkundiger Bau- und Tragwerksingenieur mit Abdeckung globaler Standards — Eurocode, DIN, ACI, AISC, ASCE, AS/NZS, CSA, GB, IS, AIJ und mehr."
+  },
+  "Clinical Evidence Agent": {
+    "name": "Agent für klinische Evidenz",
+    "description": "Nachweisstandards und Rahmenwerk für klinische Glaubwürdigkeit von KI-Agenten"
+  },
+  "Cloud Security Architect": {
+    "name": "Cloud-Sicherheitsarchitekt",
+    "description": "Cloud-nativer Sicherheitsspezialist, der Zero-Trust-Architekturen entwirft, Defense-in-Depth über AWS, Azure und GCP implementiert und Infrastruktur-als-Code-Pipelines von Tag eins an sichert."
+  },
+  "CMS Developer": {
+    "name": "CMS-Entwickler",
+    "description": "Drupal- und WordPress-Spezialist für Theme-Entwicklung, benutzerdefinierte Plugins/Module, Inhaltsarchitektur und codebasierte CMS-Implementierung"
+  },
+  "Code Reviewer": {
+    "name": "Code-Reviewer",
+    "description": "Experten-Code-Reviewer, der konstruktives, umsetzbares Feedback gibt, das sich auf Korrektheit, Wartbarkeit, Sicherheit und Leistung konzentriert – nicht auf Stilpräferenzen."
+  },
+  "Codebase Archaeologist": {
+    "name": "Codebasis-Archäologe",
+    "description": "Mehrfach-Sitzungs-, Mehrfach-Tool-Drift-Erkennungsspezialist, der Codebasen überprüft, die im Laufe der Zeit von mehreren KI-Programmierungstools (Claude, Cursor, Copilot, Windsurf usw.) bearbeitet wurden, und dabei stille Logikabweichungen und toten Code findet"
+  },
+  "Codebase Onboarding Engineer": {
+    "name": "Codebase-Onboarding-Ingenieur",
+    "description": "Experten-Entwickler-Onboarding-Spezialist, der neuen Ingenieuren hilft, unbekannte Codebasen schnell zu verstehen, indem er Quellcode liest, Codepfade verfolgt und nur Fakten nennt, die im Code verankert sind."
+  },
+  "Compliance Auditor": {
+    "name": "Compliance-Auditor",
+    "description": "Fachlicher technischer Compliance-Auditor, spezialisiert auf SOC 2, ISO 27001, HIPAA und PCI-DSS Audits – von der Bereitschaftsbewertung über die Beweiserhebung bis hin zur Zertifizierung."
+  },
+  "Content Creator": {
+    "name": "Inhaltsersteller",
+    "description": "Experten-Content-Stratege und -Ersteller für plattformübergreifende Kampagnen."
+  },
+  "Corporate Training Designer": {
+    "name": "Unternehmensschulungsdesigner",
+    "description": "Experte für die Gestaltung von Unternehmensschulungssystemen und Curriculum-Entwicklung – versiert in Bedarfsanalyse für Schulungen, Methodik des Instruktionsdesigns, Gestaltung von Blended-Learning-Programmen, Entwicklung interner Trainer, Leadership-Programme"
+  },
+  "Cross-Border E-Commerce Specialist": {
+    "name": "Spezialist für grenzüberschreitenden E-Commerce",
+    "description": "Ganzheitlicher Cross-Border-E-Commerce-Stratege mit Fokus auf Amazon, Shopee, Lazada, AliExpress, Temu und TikTok Shop Operations, internationale Logistik und Übersee-Lagerhaltung, Compliance und Besteuerung, mehrsprachige Listing-Optimierung, Marken-Globalisierung"
+  },
+  "Cultural Intelligence Strategist": {
+    "name": "Stratege für kulturelle Intelligenz",
+    "description": "CQ-Spezialist, der unsichtbare Ausschlüsse erkennt, den globalen Kontext erforscht und sicherstellt, dass Software auf authentische Weise über intersektionale Identitäten hinweg anspricht."
+  },
+  "Customer Service": {
+    "name": "Kundendienst",
+    "description": "Freundlicher, professioneller Kundendienstspezialist für jede Branche – Bearbeitung von Anfragen, Beschwerden, Kontounterstützung, FAQs und nahtlose Eskalation mit Herzlichkeit, Effizienz und einem echten Engagement für die Kundenzufriedenheit"
+  },
+  "Customer Success Manager": {
+    "name": "Customer-Success-Manager",
+    "description": "Strategischer Spezialist für den Kundenerfolg für Onboarding, Gesundheitsbewertung, QBR-Moderation, Abwanderungsprävention, Identifizierung von Expansionen und Vertragsverlängerungsmanagement — Steigerung der Nettoeinnahmenbindung durch die Umwandlung von Kunden in langfristige Partner, die messbare Ergebnisse erzielen"
+  },
+  "Data Consolidation Agent": {
+    "name": "Datenkonsolidierungsagent",
+    "description": "KI-Agent, der extrahierte Verkaufsdaten in Live-Reporting-Dashboards mit Zusammenfassungen nach Gebiet, Vertreter und Pipeline konsolidiert"
+  },
+  "Data Engineer": {
+    "name": "Dateningenieur",
+    "description": "Experte für Datenengineering, spezialisiert auf den Aufbau zuverlässiger Datenpipelines, Lakehouse-Architekturen und skalierbarer Dateninfrastruktur."
+  },
+  "Data Privacy Officer": {
+    "name": "Datenschutzbeauftragter",
+    "description": "Unternehmensspezialist für Datenschutz und Datenschutzbeauftragter, der GDPR-, CCPA- und globale Datenschutz-Compliance-Programme entwickelt — einschließlich Datenkartierung, Datenschutz-Folgenabschätzungen, Einwilligungsmanagement, Reaktion auf Datenschutzverletzungen, Lieferanten-Due-Diligence und Zusammenarbeit mit Regulierungsbehörden."
+  },
+  "Data Visualization Engineer": {
+    "name": "Datenvisualisierungsingenieur",
+    "description": "Experte für Datenvisualisierung — Diagrammtypenauswahl basierend auf Daten und Fragestellung, wahrnehmungstreue Kodierungen, farbenblindenfreundliche Datenpaletten, zugängliche und interaktive Diagramme sowie leistungsfähiges Rendern großer Datensätze mit D3, Vega und Diagrammbibliotheken."
+  },
+  "Database Optimizer": {
+    "name": "Datenbank-Optimierer",
+    "description": "Experte für Datenbanken mit Schwerpunkt auf Schema-Design, Abfrageoptimierung, Indexierungsstrategien und Leistungsoptimierung für PostgreSQL, MySQL und moderne Datenbanken wie Supabase und PlanetScale."
+  },
+  "Database Reliability Engineer": {
+    "name": "Datenbank-Zuverlässigkeitsingenieur",
+    "description": "Experte für Datenbankzuverlässigkeit (DBRE) — Hochverfügbarkeit und Replikation, automatisches Failover, Backup und Wiederherstellung zu einem bestimmten Zeitpunkt, Online-Schema-Migrationen ohne Ausfallzeiten, Verbindungspooling und Notfallwiederherstellungsübungen."
+  },
+  "Deal Strategist": {
+    "name": "Deal-Stratege",
+    "description": "Senior-Deal-Stratege mit Spezialisierung auf MEDDPICC-Qualifizierung, Wettbewerbspositionierung und Gewinnplanung für komplexe B2B-Verkaufszyklen."
+  },
+  "Desktop App Engineer": {
+    "name": "Desktop-App-Ingenieur",
+    "description": "Experten-Desktop-Anwendungsentwickler für Electron und Tauri — sichere IPC- und Prozessisolierung, Code-Signierung und Notarisierung, Auto-Update-Pipelines, native OS-Integration und Disziplin beim Ressourceneinsatz."
+  },
+  "Developer Advocate": {
+    "name": "Developer Advocate",
+    "description": "Experten-Developer-Advocate, spezialisiert auf den Aufbau von Entwickler-Communities, das Erstellen überzeugender technischer Inhalte, die Optimierung der Developer Experience (DX) und die Förderung der Plattformadoption durch authentisches Engineering-Engagement."
+  },
+  "Developer Tooling Engineer": {
+    "name": "Entwickler-Tooling-Ingenieur",
+    "description": "Expertenentwickler für Developer-Tooling und CLI — Entwicklung von Kommandozeilenwerkzeugen und internen Entwicklerplattformen mit hervorragender DX: intuitive Befehlsgestaltung, hilfreiche Fehlermeldungen, Shell-Vervollständigungen, schneller Start, plattformübergreifende Verteilung und Skriptbarkeit"
+  },
+  "DevOps Automator": {
+    "name": "DevOps-Automatisierer",
+    "description": "Experten-DevOps-Ingenieur, spezialisiert auf Infrastrukturautomatisierung, CI/CD-Pipeline-Entwicklung und Cloud-Betrieb"
+  },
+  "Discovery Coach": {
+    "name": "Discovery-Coach",
+    "description": "Schult Verkaufsteams in erstklassiger Discovery-Methodik — Fragengestaltung, Abbildung des aktuellen Zustands, Quantifizierung von Lücken und Gesprächsstruktur, die echte Kaufmotive offenlegt."
+  },
+  "Document Generator": {
+    "name": "Dokumentgenerator",
+    "description": "Experte für die Erstellung von Dokumenten, der professionelle PDF-, PPTX-, DOCX- und XLSX-Dateien mithilfe von codebasierten Ansätzen mit korrekter Formatierung, Diagrammen und Datenvisualisierung erstellt."
+  },
+  "Douyin Strategist": {
+    "name": "Douyin-Stratege",
+    "description": "Experte für Kurzvideo-Marketing, spezialisiert auf die Douyin-Plattform, mit tiefgehender Expertise in den Mechanismen von Empfehlung-Algorithmen, der Planung viraler Videos, Workflows für Livestream-Commerce und ganzheitlichem Markenwachstum durch Content-Matrix-Strategien."
+  },
+  "Drone/Reality Mapping Specialist": {
+    "name": "Drohnen-/Reality-Mapping-Spezialist",
+    "description": "Experte für Photogrammetrie und Reality Capture, der Drohnenbilder zu Orthomosaiken, digitalen Geländemodellen, Punktwolken und 3D-Meshes verarbeitet — und die Lücke zwischen Felddatenerfassung und GIS-fertigen Produkten schließt."
+  },
+  "Drupal Performance Engineer": {
+    "name": "Drupal-Performance-Ingenieur",
+    "description": "Experte für Drupal 10/11 Performance-Engineering, spezialisiert auf Core Web Vitals, Render- und dynamisches Seiten-Caching, BigPipe, Cache-Tags und -Kontexte, Datenbankabfragen und Views-Optimierung, CSS/JS-Aggregation, responsive Bilder und Lazy Loading, CDN-Integration"
+  },
+  "Drupal Shopping Cart Engineer": {
+    "name": "Drupal-Commerce-Ingenieur",
+    "description": "Experte für Drupal E-Commerce, spezialisiert auf Drupal Commerce für Produktkatalogverwaltung, Integration von Zahlungsgateways, Gestaltung von Checkout-Workflows, Bestellmanagement, Steuer- und Rabattkonfiguration sowie zuverlässige Bereitstellung von Onlineshops auf Drupal 10/11"
+  },
+  "Economy Designer": {
+    "name": "Ökonomie-Designer",
+    "description": "Architekt der virtuellen Wirtschaft – Beherrscht Währungssysteme, Quellen und Senken, Monetarisierungsmodellierung, Inflationskontrolle und datengesteuertes wirtschaftliches Gleichgewicht für Live-Spiele"
+  },
+  "Email Intelligence Engineer": {
+    "name": "E-Mail-Intelligence-Ingenieur",
+    "description": "Experte im Extrahieren strukturierter, für das Denken bereiter Daten aus rohen E-Mail-Threads für KI-Agenten und Automatisierungssysteme"
+  },
+  "Email Marketing Strategist": {
+    "name": "E-Mail-Marketing-Stratege",
+    "description": "Experte für E-Mail-Marketingstrategien für CRM-gesteuerte Kampagnen, Lifecycle-Automatisierung, Segmentierungsarchitektur und Zustellbarkeit."
+  },
+  "Embedded Firmware Engineer": {
+    "name": "Embedded-Firmware-Ingenieur",
+    "description": "Spezialist für Bare-Metal- und RTOS-Firmware - ESP32/ESP-IDF, PlatformIO, Arduino, ARM Cortex-M, STM32 HAL/LL, Nordic nRF5/nRF Connect SDK, FreeRTOS, Zephyr"
+  },
+  "ESG & Sustainability Officer": {
+    "name": "ESG- und Nachhaltigkeitsbeauftragter",
+    "description": "Unternehmensnachhaltigkeitsstratege und ESG-Reporting-Spezialist, der Umwelt-, Sozial- und Governance-Programme entwickelt, Offenlegungen verwaltet, Dekarbonisierungsinitiativen vorantreibt und die Geschäftsstrategie mit den Erwartungen von Stakeholdern und Regulierungsbehörden in Einklang bringt."
+  },
+  "Evidence Collector": {
+    "name": "Evidenzsammler",
+    "description": "Screenshot-besessener, fantasieallergischer QA-Spezialist - Standardmäßig 3-5 Probleme finden, benötigt für alles visuellen Nachweis"
+  },
+  "Executive Summary Generator": {
+    "name": "Executive-Summary-Generator",
+    "description": "KI-Spezialist auf Beraterniveau, trainiert, wie ein Senior-Strategieberater zu denken und zu kommunizieren."
+  },
+  "Experiment Tracker": {
+    "name": "Experiment-Tracker",
+    "description": "Experten-Projektmanager, der sich auf Experimentdesign, Ausführungsverfolgung und datengetriebene Entscheidungsfindung spezialisiert."
+  },
+  "FedRAMP & RMF Compliance Engineer": {
+    "name": "FedRAMP- und RMF-Compliance-Ingenieur",
+    "description": "Experte für FedRAMP- und NIST-Risikomanagement-Framework-Compliance, spezialisiert auf beide FedRAMP-Autorisierungspfade — den traditionellen Rev5-Pfad (Implementierung der Kontrollen nach NIST 800-53 Rev 5, System-Sicherheitspläne, 3PAO-Bewertung)"
+  },
+  "Feedback Synthesizer": {
+    "name": "Feedback-Synthesizer",
+    "description": "Experte im Sammeln, Analysieren und Synthesieren von Benutzerfeedback aus mehreren Kanälen, um umsetzbare Produktinformationen zu gewinnen."
+  },
+  "Feishu Integration Developer": {
+    "name": "Feishu-Integrationsentwickler",
+    "description": "Full-Stack-Integrationsspezialist, spezialisiert auf die Feishu (Lark) Open Platform – versiert in Feishu-Bots, Mini-Programmen, Genehmigungsworkflows, Bitable (mehrdimensionale Tabellenkalkulationen), interaktiven Nachrichtenkarten, Webhooks, SSO-Authentifizierung"
+  },
+  "Filament Optimization Specialist": {
+    "name": "Filament-Optimierungsspezialist",
+    "description": "Experte in der Umstrukturierung und Optimierung von Filament PHP-Administrationsoberflächen für maximale Benutzerfreundlichkeit und Effizienz."
+  },
+  "Finance Tracker": {
+    "name": "Finanz-Tracker",
+    "description": "Experte für Finanzanalysen und Controller, spezialisiert auf Finanzplanung, Budgetverwaltung und Analyse der Unternehmensleistung."
+  },
+  "Financial Analyst": {
+    "name": "Finanzanalyst",
+    "description": "Experte für Finanzanalyse mit Spezialisierung auf Finanzmodellierung, Prognosen, Szenarioanalyse und datenbasierte Entscheidungsunterstützung."
+  },
+  "FinOps Engineer": {
+    "name": "FinOps-Ingenieur",
+    "description": "Experte für Cloud-Kostenmanagement für AWS/GCP/Azure — Kostenallokation und Tagging, Rightsizing, Verpflichtungsplanung (Reserved Instances/Savings Plans), Optimierung von Egress und Speicherung sowie Unit-Economics-Dashboards, die Ausgaben mit dem Geschäftswert verknüpfen."
+  },
+  "Focus Music Architect": {
+    "name": "Fokusmusik-Architekt",
+    "description": "Spezialist für instrumentale Fokusmusik und neuroakustischer Prompt-Ingenieur — erstellt hochwirksame Prompts, Klanglandschaftsarchitekturen, BPM-Kurven und binaurale Schichten für tiefen kognitiven Flow und generative Audiomodelle."
+  },
+  "FP&A Analyst": {
+    "name": "FP&A-Analyst",
+    "description": "Expertenanalyst für Finanzplanung und -analyse (FP&A) mit Spezialisierung auf Budgetierung, Abweichungsanalyse, Finanzplanung, rollierende Prognosen und strategische Entscheidungsunterstützung."
+  },
+  "French Consulting Market Navigator": {
+    "name": "Französischer Beratungsmarkt-Navigator",
+    "description": "Navigieren Sie im französischen ESN/SI-Freelancer-Ökosystem – Margenmodelle, Plattformmechanik (Malt, collective.work), Portage salarial, Preispositionierung und Realitäten des Zahlungszyklus"
+  },
+  "Frontend Developer": {
+    "name": "Frontend-Entwickler",
+    "description": "Experte für Frontend-Entwicklung mit Spezialisierung auf moderne Webtechnologien, React/Vue/Angular-Frameworks, UI-Implementierung und Leistungsoptimierung"
+  },
+  "Game Audio Engineer": {
+    "name": "Game-Audio-Ingenieur",
+    "description": "Spezialist für interaktive Audioinhalte - Meistert FMOD/Wwise-Integration, adaptive Musiksysteme, räumliches Audio und Audioleistungsbudgetierung in allen Spiel-Engines"
+  },
+  "Game Designer": {
+    "name": "Spieledesigner",
+    "description": "System- und Mechanik-Architekt - Meisterhafte GDD-Autorenschaft, Spielerpsychologie, Wirtschaftsbalance und Design von Spielschleifen über alle Engines und Genres hinweg"
+  },
+  "GaussDB Expert Engineer": {
+    "name": "GaussDB Experteningenieur",
+    "description": "Experte für Datenbanksysteme mit Schwerpunkt auf GaussDB OLTP — Huweis selbstentwickelte, unternehmensgerechte relationale Datenbank (NICHT GaussDB(DWS) OLAP, NICHT GaussDB(für openGauss) Cloud-Service, NICHT GaussDB(für MySQL))."
+  },
+  "GeoAI/ML Engineer": {
+    "name": "GeoAI/ML-Ingenieur",
+    "description": "Spezialist für georäumliches maschinelles Lernen, der Modelle für die Merkmalextraktion, Objekterkennung, Bildsegmentierung und Landbedeckungsklassifizierung aus Satelliten- und Luftbildern erstellt."
+  },
+  "Geographer": {
+    "name": "Geograph",
+    "description": "Experte für Physische und Humangeografie, Klimasysteme, Kartographie und räumliche Analyse — erschafft geografisch kohärente Welten, in denen Gelände, Klima, Ressourcen und Siedlungsmuster wissenschaftlich sinnvoll sind"
+  },
+  "Geoprocessing Specialist": {
+    "name": "Geoverarbeitungs-Spezialist",
+    "description": "ArcPy- und Python-Toolbox-Experte, der räumliche Arbeitsabläufe automatisiert – erstellt .pyt-Toolboxen, Model Builder-Prozesse, Batch-Geoverarbeitung-Automatisierungen und benutzerdefinierte Analyseskripte für ArcGIS Pro."
+  },
+  "GIS Analyst": {
+    "name": "GIS-Analyst",
+    "description": "Täglicher GIS-Benutzer, der Karten erstellt, Layer verwaltet, räumliche Abfragen durchführt und die geospatialen Datenintegrität in Desktop- und Webumgebungen aufrechterhält."
+  },
+  "GIS QA Engineer": {
+    "name": "GIS-QA-Ingenieur",
+    "description": "Qualitätssicherungsspezialist, der die Integrität geospatialer Daten überprüft — Topologieprüfungen, Metadaten-Audits, Konsistenz des Koordinatenreferenzsystems, Genauigkeitsbewertung und Einhaltungsprüfung."
+  },
+  "Git Workflow Master": {
+    "name": "Git-Workflow-Meister",
+    "description": "Experte für Git-Workflows, Branching-Strategien und bewährte Methoden der Versionskontrolle, einschließlich konventioneller Commits, Rebase, Worktrees und CI-freundlicher Zweigverwaltung."
+  },
+  "Global Podcast Strategist": {
+    "name": "Globaler Podcast-Stratege",
+    "description": "Experte für Podcast-Wachstum, spezialisiert auf Show-Positionierung, Zielgruppenentwicklung, Inhaltsstrategie und Monetarisierung."
+  },
+  "Government Digital Presales Consultant": {
+    "name": "Presales-Berater für digitale Verwaltung",
+    "description": "Presales-Experte für den digitalen Transformationsmarkt der chinesischen Regierung (ToG), versiert in Politikinterpretation, Lösungsdesign, Angebotsdokumentenerstellung, POC-Validierung"
+  },
+  "Grant Writer": {
+    "name": "Fördermittel-Autor",
+    "description": "Experte für Fördermittelanträge für gemeinnützige Organisationen, Forschungseinrichtungen und soziale Unternehmen — einschließlich Potenzialanalyse, Erstellung von Interessensschreiben, vollständiger Antragsentwicklung, Budgetdarstellungen sowie Bundes- und Stiftungszuschüsse"
+  },
+  "Growth Hacker": {
+    "name": "Wachstums-Hacker",
+    "description": "Experten-Wachstumsstratege, spezialisiert auf schnelle Nutzergewinnung durch datengesteuerte Experimente."
+  },
+  "Healthcare Customer Service": {
+    "name": "Kundendienst im Gesundheitswesen",
+    "description": "Einfühlsamer Kundenservice-Spezialist im Gesundheitswesen für Patientenbetreuung, Abrechnungsanfragen, Terminverwaltung, Versicherungsfragen, Beschwerdelösung und reibungslose Weiterleitung an klinisches oder administratives Personal"
+  },
+  "Healthcare Innovation Strategist": {
+    "name": "Innovationsstratege im Gesundheitswesen",
+    "description": "Strategischer Erzählarchitekt für Gründer im Gesundheitswesen, die tätig sind bei"
+  },
+  "Healthcare Marketing Compliance Specialist": {
+    "name": "Spezialist für Marketing-Compliance im Gesundheitswesen",
+    "description": "Experte für Compliance im Gesundheitsmarketing in China, versiert im Werbegesetz, in den Maßnahmen zur Verwaltung medizinischer Werbung, im Arzneimittelgesetz und in verwandten Vorschriften — abdeckend Pharmazie, Medizinprodukte, medizinische Ästhetik"
+  },
+  "Historian": {
+    "name": "Historiker",
+    "description": "Experte für historische Analyse, Periodisierung, materielle Kultur und Geschichtsschreibung — validiert historische Kohärenz und bereichert Schauplätze mit authentischen periodischen Details, die auf Primär- und Sekundärquellen basieren"
+  },
+  "Hospitality Guest Services": {
+    "name": "Gästeservice im Gastgewerbe",
+    "description": "Umfassender Spezialist für Gästeservices im Gastgewerbe für Hotels, Resorts, Restaurants und Veranstaltungsorte – einschließlich Reservierungen, Check-in/Check-out, Concierge-Dienste, Lösung von Gästeproblemen, Verwaltung von Treueprogrammen"
+  },
+  "HR Onboarding": {
+    "name": "HR-Onboarding",
+    "description": "Umfassender HR-Onboarding-Spezialist für Mitarbeitereinführung, Dokumentenverwaltung, Einhaltungsüberwachung, Leistungsanmeldung, Kulturintegration"
+  },
+  "Identity & Access Engineer": {
+    "name": "Identitäts- und Zugriffsingenieur",
+    "description": "Experten-Identitätsingenieur für OAuth 2.0/OIDC-Flows, unternehmensweites SSO (SAML/OIDC) und SCIM-Provisioning, Passkeys/WebAuthn, Sitzungsarchitektur und Mandantenautorisierung mit RBAC/ABAC."
+  },
+  "Identity Graph Operator": {
+    "name": "Identity-Graph-Operator",
+    "description": "Betreibt ein gemeinsames Identitätsdiagramm, gegen das mehrere KI-Agenten auflösen."
+  },
+  "Image Prompt Engineer": {
+    "name": "Bild-Prompt-Ingenieur",
+    "description": "Experten-Fotografie-Prompt-Ingenieur, spezialisiert auf das Erstellen detaillierter, eindrucksvoller Prompts für die KI-Bilderzeugung."
+  },
+  "Incident Responder": {
+    "name": "Incident Responder",
+    "description": "Spezialist für digitale Forensik und Incident Response, der Verletzungsuntersuchungen leitet, aktive Bedrohungen eindämmt, die Krisenreaktion koordiniert und Nachuntersuchungen schreibt, die ein Wiederauftreten verhindern."
+  },
+  "Incident Response Commander": {
+    "name": "Incident-Response-Leiter",
+    "description": "Experten-Einsatzleiter, spezialisiert auf das Management von Produktionsvorfällen, strukturierte Einsatzkoordination, Nachbesprechungs-Fazilitation, SLO/SLI-Tracking und die Gestaltung von Bereitschaftsprozessen für zuverlässige technische Organisationen."
+  },
+  "Inclusive Visuals Specialist": {
+    "name": "Spezialist für inklusive visuelle Inhalte",
+    "description": "Darstellungsexperte, der systemische KI-Voreingenommenheiten überwindet, um kulturell genaue, bestätigende und nicht stereotypische Bilder und Videos zu erstellen."
+  },
+  "Infrastructure Maintainer": {
+    "name": "Infrastrukturbetreuer",
+    "description": "Experten-Infrastrukturspezialist mit Fokus auf Systemzuverlässigkeit, Leistungsoptimierung und technische Betriebsführung."
+  },
+  "Instagram Curator": {
+    "name": "Instagram-Kurator",
+    "description": "Experte für Instagram-Marketing, spezialisiert auf visuelles Storytelling, Community-Aufbau und Optimierung von Inhalten in mehreren Formaten."
+  },
+  "Internationalization Engineer": {
+    "name": "Internationalisierungsingenieur",
+    "description": "Experte für i18n-Engineering für ICU MessageFormat, CLDR-Pluralregeln, RTL- und bidirektionale Layouts, lokalisierungsbewusste Datums-/Zahlen-/Währungsformatierung, Zeichenketten-Extraktions-Pipelines und Pseudo-Lokalisierungstests."
+  },
+  "Investment Researcher": {
+    "name": "Investmentforscher",
+    "description": "Experten-Investmentforscher, spezialisiert auf Marktforschung, Due Diligence, Portfoli Analysen und Vermögensbewertung."
+  },
+  "IoT Fleet Engineer": {
+    "name": "IoT-Flotteningenieur",
+    "description": "Experte für IoT- und Edge-Flotteningenieur — Gerätebereitstellung und Identität, MQTT/Telemetrie-Pipelines, gestufte Over-the-Air-(OTA)-Firmware-Updates mit Rollback, Edge-Computing und Beobachtbarkeit über Flotten von unzuverlässigen, zeitweise verbundenen Geräten."
+  },
+  "IT Service Manager": {
+    "name": "IT-Service-Manager",
+    "description": "Experte für IT-Service-Management, der das ITIL 4-Framework für die Gestaltung von Servicekatalogen, Incident- und Problemmanagement, Änderungssteuerung, SLA-Governance, CMDB-Pflege und kontinuierliche Serviceverbesserung verwendet — um sicherzustellen, dass die IT zuverlässig liefert"
+  },
+  "Jira Workflow Steward": {
+    "name": "Jira Workflow-Beauftragter",
+    "description": "Experten-Operationsspezialist für die Lieferung, der Jira-verbundene Git-Workflows, nachverfolgbare Commits, strukturierte Pull Requests und eine releasesichere Branch-Strategie über Softwareteams hinweg durchsetzt."
+  },
+  "Knowledge Graph Engineer": {
+    "name": "Wissensgraph-Ingenieur",
+    "description": "Strukturiert Informationen und Fähigkeiten in miteinander verbundenen Knoten (Entitäten) und Kanten (Beziehungen) – ermöglicht dynamische Kontextnavigation, modulare Kompetenzverkettung, geringere Token-Kosten und Reduzierung von Halluzinationen."
+  },
+  "Korean Business Navigator": {
+    "name": "Navigator für den koreanischen Geschäftsmarkt",
+    "description": "Koreanische Geschäftskultur für ausländische Fachkräfte — 품의-Entscheidungsprozess, Nunchi-Lesen, KakaoTalk-Geschäftsetikette, Hierarchie-Navigation und beziehungsorientierte Geschäftsmechanik"
+  },
+  "Kuaishou Strategist": {
+    "name": "Kuaishou-Stratege",
+    "description": "Experte für Kuaishou-Marketingstrategie, spezialisiert auf Kurzvideoinhalte für Chinas Städte niedrigerer Stufe, Live-Commerce-Operationen, Aufbau von Gemeinschaftsvertrauen und Wachstum des Basis-Publikums auf 快手."
+  },
+  "Language Translator": {
+    "name": "Sprachübersetzer",
+    "description": "Echtzeit-Spanisch ↔ Englisch Übersetzungsspezialist mit kulturellem Kontext, Bewusstsein für regionale Dialekte, Reiseausdruckshilfe und tonangemessener Kommunikation für alltägliche, geschäftliche und Notfallsituationen"
+  },
+  "Legal Billing & Time Tracking": {
+    "name": "Juristische Abrechnung & Zeiterfassung",
+    "description": "Umfassender Spezialist für juristische Abrechnung und Zeiterfassung zur genauen Zeiterfassung, Rechnungsstellung, Erstellung von Abrechnungsberichten, Forderungsmanagement und Einhaltung von Treuhandkonten"
+  },
+  "Legal Client Intake": {
+    "name": "Juristische Mandantenaufnahme",
+    "description": "Umfassende rechtliche Kundenaufnahme-Spezialistin für die Qualifizierung von Interessenten, das Sammeln von Fallinformationen, die Terminplanung für Beratungen, das Management von Konfliktprüfungen und die Bereitstellung von mandatsbereiten Aufnahmezusammenfassungen in allen Rechtsgebieten und Unternehmensgrößen"
+  },
+  "Legal Compliance Checker": {
+    "name": "Prüfer für gesetzliche Compliance",
+    "description": "Experte für Recht und Compliance, der sicherstellt, dass Geschäftsabläufe, Datenverarbeitung und Inhaltserstellung den relevanten Gesetzen, Vorschriften und Branchenstandards in mehreren Rechtsordnungen entsprechen."
+  },
+  "Legal Document Review": {
+    "name": "Rechtsdokumentenprüfer",
+    "description": "Spezialist für umfassende rechtliche Dokumentenprüfung von Verträgen, Prozessunterlagen und Immobilienvereinbarungen — Zusammenfassung von Dokumenten, Kennzeichnung von Risikoklauseln, Vergleich von Vertragsversionen und Überprüfung der Einhaltung in Kanzleien jeder Größe oder Praxisbereichs"
+  },
+  "Level Designer": {
+    "name": "Level-Designer",
+    "description": "Spezialist für räumliches Erzählen und Fluss - Beherrscht Layout-Theorie, Tempo-Architektur, Begegnungsdesign und Umwelterzählung in allen Spiel-Engines"
+  },
+  "LinkedIn Content Creator": {
+    "name": "LinkedIn-Inhaltsersteller",
+    "description": "Erfahrener LinkedIn-Content-Stratege mit Fokus auf Thought Leadership, Aufbau der persönlichen Marke und professionellen Inhalten mit hoher Interaktion."
+  },
+  "Livestream Commerce Coach": {
+    "name": "Livestream-Commerce-Coach",
+    "description": "Erfahrener Livestream-E-Commerce-Coach, der sich auf Gastgeber-Schulungen und Live-Streaming-Raum-Operationen auf Douyin, Kuaishou, Taobao Live und Channels spezialisiert hat, einschließlich Drehbuchgestaltung, Produktreihenfolge, Ausbalancierung von bezahltem und organischem Traffic sowie Techniken zum Abschluss von Conversions"
+  },
+  "LLM Post-Training Engineer": {
+    "name": "LLM-Nachschulungsingenieur",
+    "description": "Evidenzbasierter Verantwortlicher für SFT, Präferenzoptimierung, RLHF/RLVR, MoE-Nachtraining und die Freigabetore, die einen Checkpoint in eine verteidigbare Modelländerung verwandeln."
+  },
+  "Loan Officer Assistant": {
+    "name": "Darlehensberater-Assistent",
+    "description": "Umfassender Assistent für Darlehensberater für Hypotheken- und Kreditfachleute – einschließlich der Aufnahme von Kreditnehmern, Vorqualifikation, Dokumentensammlung, Pipeline-Management, Compliance-Überwachung, Zinssatzangebote und Koordination des Abschlusses für Wohn- und Gewerbeimmobilien"
+  },
+  "LSP/Index Engineer": {
+    "name": "LSP/Index-Ingenieur",
+    "description": "Spezialist für Language Server Protocol, der einheitliche Code-Intelligenzsysteme durch LSP-Client-Orchestrierung und semantische Indizierung aufbaut"
+  },
+  "M&A Integration Manager": {
+    "name": "M&A-Integrationsmanager",
+    "description": "Spezialist für Fusionen und Übernahmen, der Programme zur Integration nach Fusionen entwirft und durchführt — einschließlich Bereitschaft am Tag 1, 100-Tage-Planung, Synergieverfolgung, kulturelle Integration, Koordination funktionaler Arbeitsströme"
+  },
+  "macOS Spatial/Metal Engineer": {
+    "name": "macOS Spatial/Metal-Ingenieur",
+    "description": "Native Swift- und Metal-Spezialist, der leistungsstarke 3D-Rendering-Systeme und räumliche Computing-Erlebnisse für macOS und Vision Pro entwickelt"
+  },
+  "Master Plan Architect": {
+    "name": "Masterplan-Architekt",
+    "description": "Hauptplanungsarchitekt, technischer Ausbilder und kompromissloser Plan-Kritiker, der sich auf tiefgehende architektonische Lehre, Red Teaming / Risikokritik und die Erstellung umfassender Implementierungspläne in Markdown ohne jegliche Codeausführung spezialisiert hat."
+  },
+  "MCP Builder": {
+    "name": "MCP-Entwickler",
+    "description": "Expertenmodell-Kontextprotokoll-Entwickler, der MCP-Server entwirft, baut und testet, die die Fähigkeiten von KI-Agenten mit benutzerdefinierten Werkzeugen, Ressourcen und Eingabeaufforderungen erweitern."
+  },
+  "Medical Billing & Coding Specialist": {
+    "name": "Medizinischer Abrechnungs- und Kodierungsspezialist",
+    "description": "Experte für medizinische Abrechnung und Codierung für ICD-10-CM/PCS, CPT und HCPCS-Codierung, Anspruchseinreichung, Ablehnungsmanagement, Optimierung des Einnahmenzyklus, Compliance-Prüfung"
+  },
+  "Meeting Notes Specialist": {
+    "name": "Meeting-Notes-Spezialist",
+    "description": "Extrahieren Sie strukturierte Entscheidungen, Maßnahmen und offene Fragen aus Besprechungsprotokollen oder groben Notizen in eine saubere Zusammenfassung mit vier Abschnitten."
+  },
+  "Minimal Change Engineer": {
+    "name": "Minimaländerungsingenieur",
+    "description": "Ingenieurfachkraft mit Fokus auf minimale funktionsfähige Unterschiede – behebt nur, was angefordert wurde, lehnt Aufgabenaufrundung ab, bevorzugt drei ähnliche Zeilen gegenüber einer vorzeitigen Abstraktion."
+  },
+  "Mobile App Builder": {
+    "name": "Mobile-App-Entwickler",
+    "description": "Spezialisierter Entwickler mobiler Anwendungen mit Fachkenntnissen in der nativen iOS/Android-Entwicklung und plattformübergreifenden Frameworks"
+  },
+  "Mobile Release Engineer": {
+    "name": "Mobile-Release-Ingenieur",
+    "description": "Experten für mobile Veröffentlichung und Verteilung für iOS und Android — Code-Signing, Bereitstellung, Fastlane-Pipelines, Einreichung bei App Store Connect und Play Console, gestufte Rollouts und fehlerbereinigter Veröffentlichungszustand."
+  },
+  "Model QA Specialist": {
+    "name": "Modell-QA-Spezialist",
+    "description": "Unabhängiger QA-Experte für Modelle, der ML- und statistische Modelle von Anfang bis Ende prüft – von der Überprüfung der Dokumentation und Datenrekonstruktion bis hin zu Replikation, Kalibrierungstests, Interpretationsanalyse, Leistungsüberwachung und auditgerechter Berichterstattung."
+  },
+  "Multi-Agent Systems Architect": {
+    "name": "Multi-Agenten-Systemarchitekt",
+    "description": "Systemarchitekt spezialisiert auf die Gestaltung, Koordination und Steuerung von Multi-Agenten-KI-Pipelines — einschließlich Topologieauswahl, Kontextmanagement, Vertrauen zwischen Agenten, Fehlerbehebung und Mensch-in-der-Schleife-Steuerung"
+  },
+  "Multi-Platform Publisher": {
+    "name": "Multi-Plattform-Publisher",
+    "description": "Experten-Orchestrator für die Veröffentlichung chinesischer Blogs mit einem Klick."
+  },
+  "Narrative Designer": {
+    "name": "Narrative Designer",
+    "description": "Story-Systeme und Dialog-Architekt - Beherrscht GDD-konformes narratives Design, verzweigte Dialoge, Lore-Architektur und umgebungsbezogenes Storytelling in allen Spiel-Engines"
+  },
+  "Narratologist": {
+    "name": "Narratologe",
+    "description": "Experte für Narrationstheorie, Handlungsaufbau, Charakterentwicklung und literarische Analyse — begründet Ratschläge auf etablierten Rahmenwerken von Propp über Campbell bis hin zur modernen Narratologie"
+  },
+  "Network Engineer": {
+    "name": "Netzwerkingenieur",
+    "description": "Expertennetzwerktechniker für Cisco IOS/IOS-XE, Cisco ASA/FTD, Juniper Junos und Palo Alto PAN-OS Routing, Switching, Firewalling und Fehlerbehebung."
+  },
+  "Offer & Lead Gen Strategist": {
+    "name": "Angebots- & Lead-Generierungs-Stratege",
+    "description": "Top-of-Funnel-Architekt, der unwiderstehliche Angebote und Lead-Magnete entwirft, die qualifizierte Käufer in großem Maßstab anziehen."
+  },
+  "Operations Manager": {
+    "name": "Betriebsleiter",
+    "description": "Fachkraft für Geschäftsabläufe, die Lean, Six Sigma und Systemdenken auf Prozessmapping, Kapazitätsplanung, KPI-Governance, Lieferantenmanagement und organisatorische Effizienz anwendet – und dabei operative Komplexität in wiederholbare, messbare Leistung umwandelt."
+  },
+  "Organizational Psychologist": {
+    "name": "Organisationspsychologe",
+    "description": "Angewandte Organisationspsychologin, die Teamdynamiken, psychologische Sicherheit, Burnout-Risiken und Kulturgesundheit diagnostiziert — unter Verwendung evidenzbasierter Rahmenwerke, um Führungskräften zu helfen, leistungsstarke, widerstandsfähige und psychologisch sichere Organisationen aufzubauen."
+  },
+  "OrgScript Engineer": {
+    "name": "OrgScript-Ingenieur",
+    "description": "Experte im Entwerfen, Parsen und Implementieren von OrgScript-Grammatik, AST-Validierung und Definitionen der Geschäftslogik."
+  },
+  "Outbound Strategist": {
+    "name": "Outbound-Stratege",
+    "description": "Signalbasierter Outbound-Spezialist, der Multi-Channel-Akquise-Sequenzen entwirft, ICPs definiert und den Vertriebskanal durch forschungsbasierte Personalisierung aufbaut — nicht durch hohes Volumen."
+  },
+  "Paid Media Auditor": {
+    "name": "Paid-Media-Auditor",
+    "description": "Umfassender Paid-Media-Auditor, der systematisch Google Ads-, Microsoft Ads- und Meta-Konten über mehr als 200 Prüfpunkte hinweg bewertet, die Kontostruktur, Tracking, Gebotsstrategien, kreative Inhalte, Zielgruppen und Wettbewerbspositionierung abdecken."
+  },
+  "Paid Social Strategist": {
+    "name": "Paid-Social-Stratege",
+    "description": "Spezialist für plattformübergreifende bezahlte Social-Media-Werbung für Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X und Snapchat."
+  },
+  "Payments & Billing Engineer": {
+    "name": "Zahlungs- und Abrechnungsingenieur",
+    "description": "Experten-Zahlungsingenieur für PSP-Integrationen (Stripe, Adyen, Braintree, PayPal), idempotente Zahlungsabläufe, Webhook-Verarbeitung, Abonnementabrechnung, SCA/3DS, PCI-Umfangsreduzierung und finanzielle Abstimmung."
+  },
+  "PDF Engine Architect": {
+    "name": "PDF-Engine-Architekt",
+    "description": "Architekt und Spezialist für deterministische HTML-zu-PDF-Dokumentenkonvertierung, Playwright-Browser-Kontext-Pools, dynamische euklidische Seitengrößen, LayoutNG-Subpixel-Budgetierung, getaggte PDFs (PDF/UA-1 & PDF/A-2b) und 1:1-Blatt-Leinwand-Editoren."
+  },
+  "Penetration Tester": {
+    "name": "Penetrationstester",
+    "description": "Spezialist für offensive Sicherheit, der autorisierte Penetrationstests, Red-Team-Operationen und Schwachstellenbewertungen über Netzwerke, Webanwendungen und Cloud-Infrastrukturen durchführt."
+  },
+  "Performance Benchmarker": {
+    "name": "Performance-Benchmarking-Spezialist",
+    "description": "Fachmann für Leistungstests und Optimierung, spezialisiert auf die Messung, Analyse und Verbesserung der Systemleistung in allen Anwendungen und Infrastrukturen"
+  },
+  "Persona Walkthrough Specialist": {
+    "name": "Persona-Durchgangsspezialist",
+    "description": "Simulieren Sie kognitive Durchläufe von Webseiten aus der psychologischen Perspektive einer definierten Persona — erfasst emotionale Reaktionen und rationales Denken bei jeder Scroll-Position und liefert anschließend strukturierte CRO-Berichte, die auf den LIFT-, Cialdini- und Fogg-Rahmenwerken basieren"
+  },
+  "Personal Growth Mentor": {
+    "name": "Mentor für persönliche Entwicklung",
+    "description": "Fachübergreifender Mentor für persönliche Entwicklung für Zielklarheit, Gewohnheitsgestaltung, strategische Entscheidungen und Verantwortlichkeit ohne motivierenden Schnickschnack."
+  },
+  "Pipeline Analyst": {
+    "name": "Pipeline-Analyst",
+    "description": "Revenue-Operations-Analyst mit Spezialisierung auf Pipeline-Gesundheitsdiagnostik, Analyse der Deal-Geschwindigkeit, Prognosegenauigkeit und datengetriebenes Vertriebscoaching."
+  },
+  "Platform Engineer": {
+    "name": "Plattformingenieur",
+    "description": "Experteninterner Entwicklerplattform (IDP)-Ingenieur, spezialisiert auf goldene Pfade, befestigte Straßen und Self-Service-Infrastruktur, die die Entwicklungsgeschwindigkeit vervielfacht."
+  },
+  "Podcast Strategist": {
+    "name": "Podcast-Stratege",
+    "description": "Experte für Content-Strategie und -Betrieb im chinesischen Podcast-Markt, mit tiefgehender Expertise in Xiaoyuzhou, Ximalaya und anderen großen Audio-Plattformen, einschließlich Show-Positionierung, Audioproduktion, Publikumswachstum und Multi-Plattform-Verteilung"
+  },
+  "PPC Campaign Strategist": {
+    "name": "PPC-Kampagnen-Stratege",
+    "description": "Senior Paid-Media-Stratege mit Spezialisierung auf groß angelegte Such-, Shopping- und Performance-Max-Kampagnenarchitektur über die Werbeplattformen von Google, Microsoft und Amazon."
+  },
+  "PR & Communications Manager": {
+    "name": "PR- und Kommunikationsmanager",
+    "description": "Strategischer Spezialist für Öffentlichkeitsarbeit und Kommunikation für Medienbeziehungen, Pressemitteilungen, Krisenkommunikation, Führungskräfte-Thought-Leadership, Markenreputationsmanagement"
+  },
+  "Pricing Analyst": {
+    "name": "Preisanalyst",
+    "description": "Spezialisierter Preisanalyst, der durch Marktforschung, Wettbewerbsanalyse, Bewertung der Kostenstruktur und Margenoptimierung optimale Preisgestaltungsmodelle entwickelt — und somit die Preisgestaltung von einer Vermutung zu einem datengesteuerten Wettbewerbsvorteil macht."
+  },
+  "Privacy Engineer": {
+    "name": "Datenschutzingenieur",
+    "description": "Experten-Privacy-Ingenieur, der Datenschutz im Code umsetzt – PII-Erkennung und -Klassifizierung, Datenminimierung, Durchsetzung von Einwilligungen auf API-Ebene, automatisierte DSAR und Löschung über Dienste hinweg, Pseudonymisierung/Tokenisierung und Automatisierung der Aufbewahrung."
+  },
+  "Private Domain Operator": {
+    "name": "Private-Domain-Operator",
+    "description": "Experte im Aufbau von Unternehmens-WeChat- (WeCom-) Privatdomänen-Ökosystemen, mit tiefgehender Expertise in SCRM-Systemen, segmentierter Community-Operationen, Integration von Mini-Program-Commerce, Nutzerlebenszyklus-Management und Optimierung der Conversion über den gesamten Trichter."
+  },
+  "Product Manager": {
+    "name": "Produktmanager",
+    "description": "Ganzheitlicher Produktleiter, der den gesamten Produktlebenszyklus verantwortet – von Entdeckung und Strategie über Roadmap, Abstimmung mit Stakeholdern, Markteinführung bis hin zur Ergebnismessung."
+  },
+  "Programmatic & Display Buyer": {
+    "name": "Programmatic- und Display-Media-Buyer",
+    "description": "Spezialist für Display-Werbung und programmatischen Medieneinkauf, der verwaltete Platzierungen, Google Display-Netzwerk, DV360, Trade-Desk-Plattformen, Partner-Medien (Newsletter, gesponserte Inhalte) und ABM-Display-Strategien über Plattformen wie Demandbase und 6Sense abdeckt."
+  },
+  "Project Shepherd": {
+    "name": "Projektkoordinator",
+    "description": "Experten-Projektmanager, der sich auf bereichsübergreifende Projektkoordination, Zeitmanagement und Abstimmung mit Stakeholdern spezialisiert hat."
+  },
+  "Prompt Engineer": {
+    "name": "Prompt-Engineer",
+    "description": "Spezialist für das Erstellen, Testen und systematische Optimieren von Prompts für LLMs — wandelt vage Anweisungen in zuverlässige, produktionsreife KI-Verhalten um."
+  },
+  "Proposal Strategist": {
+    "name": "Angebotsstratege",
+    "description": "Strategischer Vorschlagsarchitekt, der RFPs und Verkaufschancen in überzeugende Gewinnstorys verwandelt."
+  },
+  "Psychologist": {
+    "name": "Psychologe",
+    "description": "Experte für menschliches Verhalten, Persönlichkeitstheorie, Motivation und kognitive Muster — entwickelt psychologisch glaubwürdige Charaktere und Interaktionen, die auf klinischen und Forschungsrahmen basieren"
+  },
+  "RAG Pipeline Engineer": {
+    "name": "RAG-Pipeline-Ingenieur",
+    "description": "Produktions-RAG-Spezialist, konzentriert auf Chunking-Strategie, Abrufqualität, hybride Suche, Neu-Ranking und evalationsgetriebene Iteration."
+  },
+  "Rapid Prototyper": {
+    "name": "Rapid Prototyper",
+    "description": "Spezialisiert auf ultraschnelle Entwicklung von Konzeptnachweisen und Erstellung von MVPs unter Verwendung effizienter Werkzeuge und Frameworks"
+  },
+  "Real Estate Buyer & Seller": {
+    "name": "Immobilienkäufer & -verkäufer",
+    "description": "Umfassender Immobilienmakler-Assistent für Käufervertretung, Verkäufervertretung, Listenverwaltung, Angebotsverhandlung, Transaktionskoordination"
+  },
+  "Reality Checker": {
+    "name": "Realitätsprüfer",
+    "description": "Stoppt Fantasie-Genehmigungen, evidenzbasierte Zertifizierung – Standardmäßig auf „BRAUCHT ARBEIT“, erfordert überwältigende Beweise für Produktionsbereitschaft"
+  },
+  "Realtime Collaboration Engineer": {
+    "name": "Echtzeit-Kollaborationsingenieur",
+    "description": "Experten-Engineer für Echtzeitsysteme für WebSocket/SSE-Infrastruktur, Präsenz, CRDT- und OT-basierte kollaborative Bearbeitung, Offline-zuerst-Synchronisations-Engines und Fan-out-Skalierung mit verbindungssicheren Protokollen."
+  },
+  "Recruitment Specialist": {
+    "name": "Personalbeschaffungsspezialist",
+    "description": "Experten für Rekrutierungsoperationen und Spezialist für Talentakquise – erfahren mit den wichtigsten Einstellungsplattformen Chinas, Talentbewertungsrahmen und Einhaltung des Arbeitsrechts."
+  },
+  "Reddit Community Builder": {
+    "name": "Reddit-Community-Builder",
+    "description": "Experte für Reddit-Marketing, spezialisiert auf authentisches Community-Engagement, wertorientierte Inhaltserstellung und den Aufbau langfristiger Beziehungen."
+  },
+  "Report Distribution Agent": {
+    "name": "Berichtsverteilungsagent",
+    "description": "KI-Agent, der die Verteilung konsolidierter Vertriebsberichte an Vertreter basierend auf territorialen Parametern automatisiert"
+  },
+  "Research Synthesist": {
+    "name": "Forschungssynthesist",
+    "description": "Experte für Literaturrecherche, Quellenbewertung und Evidenzsynthese – verwandelt einen verstreuten Haufen von Quellen in eine strukturierte, ehrlich gewichtete Karte dessen, was die Beweise tatsächlich unterstützen"
+  },
+  "Resume Tailor": {
+    "name": "Lebenslauf-Optimierer",
+    "description": "Spezialist für Lebenslaufoptimierung auf Kandidatenseite, der Stellenbeschreibungen analysiert, reale Erfahrungen den Rollenanforderungen zuordnet, die Übereinstimmung mit ATS-Schlüsselwörtern verbessert und Aufzählungspunkte neu schreibt, ohne Qualifikationen zu erfinden."
+  },
+  "Retail Customer Returns": {
+    "name": "Spezialist für Retouren im Einzelhandel",
+    "description": "Umfassender Spezialist für Einzelhandelsrücksendungen zur Bearbeitung von Rücksendungen, Umtausch und Rückerstattungen im stationären Handel, Online-Handel und Omnichannel-Handel – zuständig für Durchsetzung von Richtlinien, Betrugsprävention, Kundenbindung und Rücksendungen an Lieferanten"
+  },
+  "Rust Refactoring Specialist": {
+    "name": "Rust-Refactoring-Spezialist",
+    "description": "Experte für Rust-Engineering für repository-weite Refaktorisierung, sichere Umbenennungen, Modulrestrukturierung, Duplikatentfernung, Panic-Härtung, Verbesserungen beim Eigentum und Behebung von Compiler- oder Clippy-Problemen."
+  },
+  "Sales Coach": {
+    "name": "Vertriebscoach",
+    "description": "Experte für Verkaufstraining mit Schwerpunkt auf Vertriebsmitarbeiterentwicklung, Pipeline-Überprüfungsmoderation, Gesprächstraining, Abschlussstrategie und Prognosegenauigkeit."
+  },
+  "Sales Data Extraction Agent": {
+    "name": "Verkaufsdaten-Extraktionsagent",
+    "description": "KI-Agent, spezialisiert auf die Überwachung von Excel-Dateien und die Extraktion wichtiger Verkaufskennzahlen (MTD, YTD, Jahresende) für interne Live-Berichte"
+  },
+  "Sales Engineer": {
+    "name": "Vertriebsingenieur",
+    "description": "Senior Pre-Sales-Ingenieur spezialisiert auf technische Entdeckungen, Demo-Engineering, POC-Planung, Wettbewerbs-Battlecards und die Verbindung von Produktfähigkeiten mit Geschäftsergebnissen."
+  },
+  "Sales Outreach": {
+    "name": "Vertriebsansprache",
+    "description": "Beratender B2B-Vertriebsspezialist für kalte Akquise, Nachverfolgung von Leads, Einwandbehandlung, Angebotserstellung und Pipeline-Management — kombiniert datengesteuerte Zielgruppenansprache mit echtem Beziehungsaufbau, um Türen zu öffnen und Geschäfte abzuschließen"
+  },
+  "Salesforce Architect": {
+    "name": "Salesforce-Architekt",
+    "description": "Lösungsarchitektur für die Salesforce-Plattform – Multi-Cloud-Design, Integrationsmuster, Governor-Limits, Bereitstellungsstrategie und Datenmodell-Governance für Organisationen im Unternehmensmaßstab"
+  },
+  "Search Query Analyst": {
+    "name": "Suchanfragen-Analyst",
+    "description": "Spezialist für Suchbegriffanalyse, negative Keyword-Architektur und Abbildung von Suchanfragen auf Absichten."
+  },
+  "Search Relevance Engineer": {
+    "name": "Suchrelevanz-Ingenieur",
+    "description": "Experten-Suchingenieur für Elasticsearch und OpenSearch — Index- und Analysatordesign, BM25-Abstimmungsanfragen, hybride lexikalische+Vektor-Suche sowie urteilbasierte Relevanzbewertung mit nDCG und Online-Experimenten."
+  },
+  "Secrets & Credential Hygiene Engineer": {
+    "name": "Ingenieur für Secrets- und Credential-Hygiene",
+    "description": "Verfügt über den gesamten Lebenszyklus von Geheimnissen und Zugangsdaten — Erkennung, Prävention, Aufbewahrung, Rotation und Reaktionsmaßnahmen bei Lecks — sodass eine Anwendung mit kurzlebigen läuft"
+  },
+  "Section 508 Accessibility Specialist": {
+    "name": "Spezialist für Barrierefreiheit nach Abschnitt 508",
+    "description": "Experte aus den USA"
+  },
+  "Security Architect": {
+    "name": "Sicherheitsarchitekt",
+    "description": "Experte für Sicherheitsarchitektur, spezialisiert auf Bedrohungsmodellierung, sicherheitsorientiertes Design, Analyse von Vertrauensgrenzen, Tiefenverteidigung und risikobasierte Sicherheitsüberprüfungen in Web-, API-, Cloud-nativen und verteilten Systemen."
+  },
+  "Senior Developer": {
+    "name": "Senior-Entwickler",
+    "description": "Premium-Implementierungsspezialist - Meister in Laravel/Livewire/FluxUI, fortgeschrittenes CSS, Three.js-Integration"
+  },
+  "Senior Project Manager": {
+    "name": "Senior-Projektmanager",
+    "description": "Konvertiert Spezifikationen in Aufgaben und merkt sich vorherige Projekte."
+  },
+  "Senior SecOps Engineer": {
+    "name": "Senior-SecOps-Ingenieur",
+    "description": "Defensiver Anwendungssicherheitsspezialist, der jede Codeeinreichung als Erstes auf Geheimnisse und die Offenlegung sensibler Daten prüft und anschließend Sicherheitskontrollen implementiert oder überprüft, die dem Sicherheitsstandard der Organisation entsprechen — einschließlich Authentifizierung"
+  },
+  "SEO Specialist": {
+    "name": "SEO-Spezialist",
+    "description": "Experte für Suchmaschinenoptimierung, spezialisiert auf technische SEO, Inhaltsoptimierung, Aufbau von Linkautorität und organisches Suchwachstum."
+  },
+  "Short-Video Editing Coach": {
+    "name": "Kurzvideo-Bearbeitungscoach",
+    "description": "Praktischer Kurzvideo-Bearbeitungscoach, der die gesamte Postproduktions-Pipeline abdeckt, mit Beherrschung von CapCut Pro, Premiere Pro, DaVinci Resolve und Final Cut Pro in den Bereichen Komposition und Kamerasprache, Farbkorrektur, Tontechnik, Motion Graphics und VFX"
+  },
+  "Social Media Strategist": {
+    "name": "Social-Media-Stratege",
+    "description": "Experte für Social-Media-Strategien für LinkedIn, Twitter und professionelle Plattformen."
+  },
+  "Software Architect": {
+    "name": "Softwarearchitekt",
+    "description": "Experten-Softwarearchitekt, spezialisiert auf Systemdesign, Domain-Driven Design, Architekturmustern und technische Entscheidungsfindung für skalierbare, wartbare Systeme."
+  },
+  "Solidity Smart Contract Engineer": {
+    "name": "Solidity Smart-Contract-Ingenieur",
+    "description": "Experte für Solidity-Entwicklung, spezialisiert auf EVM-Smart-Contract-Architektur, Gasoptimierung, upgradefähige Proxy-Muster, Entwicklung von DeFi-Protokollen und sicherheitsorientiertes Vertragsdesign auf Ethereum- und L2-Chain."
+  },
+  "Solution Engineer": {
+    "name": "Lösungsingenieur",
+    "description": "Praktischer GIS-Prototypentwickler, der Strategien vom Technical Consultant übernimmt und sie in funktionierende Demos, Machbarkeitsnachweise und technische Validierungen über den gesamten Esri- und Open-Source-Stack umsetzt."
+  },
+  "Sovereign Health Systems Agent": {
+    "name": "Agent des souveränen Gesundheitssystems",
+    "description": "Rahmen für das Engagement von Regierungs-Gesundheitsvorgaben für KI-Agenten"
+  },
+  "Spatial Data Engineer": {
+    "name": "Geodateningenieur",
+    "description": "ETL-Spezialist, der unordentliche geospatiale Daten aus beliebigen Quellen in saubere, standardisierte, produktionsbereite Datensätze umwandelt — Formatkonvertierung, CRS-Neuprojektion, Attributnormalisierung und automatisierte Pipelines."
+  },
+  "Spatial Data Scientist": {
+    "name": "Geodatenwissenschaftler",
+    "description": "Fachmann für fortgeschrittene räumliche Analysen, der statistische Modellierung, räumliche Ökonometrie, Clustering und prädiktive Analysen auf geospatiale Daten anwendet — und Muster findet, die auf einer Karte nicht sichtbar sind."
+  },
+  "Sprint Prioritizer": {
+    "name": "Sprint-Priorisierer",
+    "description": "Experten-Produktmanager, der sich auf agile Sprint-Planung, Funktionspriorisierung und Ressourcenallokation spezialisiert hat."
+  },
+  "SRE (Site Reliability Engineer)": {
+    "name": "SRE (Site-Reliability-Ingenieur)",
+    "description": "Experten-Site-Reliability-Ingenieur, spezialisiert auf SLOs, Fehlerbudgets, Observability, Chaos-Engineering und Abbau von Routinearbeiten für Produktionssysteme in großem Maßstab."
+  },
+  "Statistician": {
+    "name": "Statistiker",
+    "description": "Experte für quantitative Forschungsmethodik, experimentelles Design und statistische Inferenz — prüft Behauptungen unter Druck, entwirft fundierte Studien und trennt echte Signale von Rauschen, Zufall und Verzerrung"
+  },
+  "Strategy Duel Agent": {
+    "name": "Strategie-Duell-Agent",
+    "description": "Führt Live-Strategieduelle unter Verwendung der Spieltheorie und der 36 chinesischen Strategeme durch"
+  },
+  "Studio Operations": {
+    "name": "Studio-Betrieb",
+    "description": "Experten-Operationsmanager, spezialisiert auf die tägliche Effizienz im Studio, Prozessoptimierung und Ressourcenkkoordination."
+  },
+  "Studio Producer": {
+    "name": "Studio-Produzent",
+    "description": "Senior-Stratege, spezialisiert auf hochrangige kreative und technische Projektorchestrierung, Ressourcenallokation und Multi-Projekt-Portfolio-Management."
+  },
+  "Study Abroad Advisor": {
+    "name": "Berater für Auslandsstudium",
+    "description": "Experte für umfassende Auslandsstudienplanung für die USA, das Vereinigte Königreich, Kanada, Australien, Europa, Hongkong und Singapur — versiert in Strategie für Bewerbungen auf Bachelor-, Master- und PhD-Programme, Schulwahl, Aufsatzbetreuung und Profilverbesserung"
+  },
+  "Supply Chain Strategist": {
+    "name": "Lieferkettenstratege",
+    "description": "Experte für Lieferkettenmanagement und Beschaffungsstrategie — spezialisiert auf Lieferantenentwicklung, strategische Beschaffung, Qualitätskontrolle und Digitalisierung der Lieferkette."
+  },
+  "Support Responder": {
+    "name": "Support-Spezialist",
+    "description": "Experte für Kundensupport, der außergewöhnlichen Kundenservice, Problemlösungen und Optimierung der Benutzererfahrung bietet."
+  },
+  "Tax Strategist": {
+    "name": "Steuerstratege",
+    "description": "Experten-Steuerstratege, spezialisiert auf Steueroptimierung, Compliance in mehreren Rechtsordnungen, Verrechnungspreise und strategische Steuerplanung."
+  },
+  "Technical Artist": {
+    "name": "Technischer Künstler",
+    "description": "Spezialist für Art-to-Engine-Pipelines - Beherrscht Shader, VFX-Systeme, LOD-Pipelines, Leistungsbudgetierung und plattformübergreifende Asset-Optimierung"
+  },
+  "Technical Consultant": {
+    "name": "Technischer Berater",
+    "description": "Strategischer GIS-Berater, der Geschäftsprobleme in geospatiale Lösungen übersetzt — Lückenanalyse, Technologieroadmaps, RFP-Antworten und Strategie für digitale Transformation über Esri- und Open-Source-Ökosysteme hinweg."
+  },
+  "Technical Writer": {
+    "name": "Technischer Redakteur",
+    "description": "Experten-Technischer Redakteur, spezialisiert auf Entwicklerrichtlinien, API-Referenzen, README-Dateien und Tutorials."
+  },
+  "Terminal Integration Specialist": {
+    "name": "Terminal-Integrationsspezialist",
+    "description": "Terminalemulation, Textdarstellungsoptimierung und SwiftTerm-Integration für moderne Swift-Anwendungen"
+  },
+  "Test Automation Engineer": {
+    "name": "Testautomatisierungsingenieur",
+    "description": "Experte für End-to-End-Testautomatisierung für Playwright und Cypress — robuste Selektoren, Beseitigung von Fehlern, isolierte Testdaten, CI-Parallelisierung und fehlerdiagnose anhand von Traces."
+  },
+  "Test Results Analyzer": {
+    "name": "Testergebnisanalyst",
+    "description": "Experten-Testanalysespezialist mit Schwerpunkt auf umfassender Bewertung von Testergebnissen, Analyse von Qualitätskennzahlen und Gewinnung verwertbarer Erkenntnisse aus Testaktivitäten"
+  },
+  "Threat Detection Engineer": {
+    "name": "Bedrohungserkennungsingenieur",
+    "description": "Experten-Detection-Ingenieur, spezialisiert auf die Entwicklung von SIEM-Regeln, MITRE ATT&CK-Abdeckungszuordnung, Bedrohungssuche, Alarmeinstellungen und Detection-as-Code-Pipelines für Sicherheitsteams."
+  },
+  "Threat Intelligence Analyst": {
+    "name": "Threat-Intelligence-Analyst",
+    "description": "Spezialist für Cyber-Bedrohungsinformationen, der gegnerische Gruppen verfolgt, Angriffskampagnen auf MITRE ATT&CK abbildet, umsetzbare Lageberichte erstellt und Erkennungsregeln entwickelt, die echte Bedrohungen aufspüren."
+  },
+  "TikTok Strategist": {
+    "name": "TikTok-Stratege",
+    "description": "Experte für TikTok-Marketing, spezialisiert auf virale Inhaltserstellung, Algorithmusoptimierung und Community-Aufbau."
+  },
+  "Tool Evaluator": {
+    "name": "Tool-Evaluator",
+    "description": "Experte für Technologieeinschätzung, spezialisiert auf die Bewertung, Prüfung und Empfehlung von Werkzeugen, Software und Plattformen für den geschäftlichen Einsatz und die Produktivitätsoptimierung"
+  },
+  "Tracking & Measurement Specialist": {
+    "name": "Spezialist für Tracking und Messung",
+    "description": "Experte für Conversion-Tracking-Architektur, Tag-Management und Attributionsmodellierung über Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag und serverseitige Implementierungen."
+  },
+  "Trend Researcher": {
+    "name": "Trendforscher",
+    "description": "Experten-Marktanalyst mit Spezialisierung auf die Identifizierung aufkommender Trends, Wettbewerbsanalyse und Chancenbewertung."
+  },
+  "Twitter Engager": {
+    "name": "Twitter-Engagement-Spezialist",
+    "description": "Experte für Twitter-Marketing, spezialisiert auf Echtzeit-Engagement, Aufbau von Thought Leadership und gemeinschaftsorientiertes Wachstum."
+  },
+  "UI Designer": {
+    "name": "UI-Designer",
+    "description": "Experte für UI-Design, spezialisiert auf visuelle Designsysteme, Komponentenbibliotheken und die Erstellung pixelgenauer Benutzeroberflächen."
+  },
+  "UI Finish-Gate Reviewer": {
+    "name": "UI-Finish-Gate-Reviewer",
+    "description": "Produktoberflächen-Bewerter, der generische, austauschbare Benutzeroberflächen erkennt, bevor sie ausgeliefert werden, indem er die Kritik auf reale Produktbelege, einen schriftlichen Designvertrag und ein festgelegtes Implementierungsabschlussverfahren stützt."
+  },
+  "Universal Document Compiler": {
+    "name": "Universeller Dokumenten-Compiler",
+    "description": "Architekt von schema-agnostischen Dokument-ASTs, algorithmischer Datenform-Layout-Inferenz, bidirektionaler CST-zu-Leinwand-Synchronisation und universeller seitenbasierter Dokumentenveröffentlichung."
+  },
+  "USWDS Developer": {
+    "name": "USWDS-Entwickler",
+    "description": "Experte aus den USA"
+  },
+  "UX Architect": {
+    "name": "UX-Architekt",
+    "description": "Technische Architektur- und UX-Spezialist, der Entwicklern solide Grundlagen, CSS-Systeme und klare Umsetzungshinweise bietet"
+  },
+  "UX Researcher": {
+    "name": "UX-Forscher",
+    "description": "Experte für Benutzererfahrung mit Spezialisierung auf Benutzerverhaltensanalyse, Usability-Tests und datenbasierte Design-Insights."
+  },
+  "Video Optimization Specialist": {
+    "name": "Spezialist für Videooptimierung",
+    "description": "Video-Marketing-Stratege, spezialisiert auf YouTube-Algorithmus-Optimierung, Zuschauerbindung, Kapitelgliederung, Thumbnail-Konzepte und plattformübergreifende Video-Syndizierung."
+  },
+  "Video Streaming Engineer": {
+    "name": "Video-Streaming-Ingenieur",
+    "description": "Experten-Videostreaming-Ingenieur für adaptive Bitratenübertragung — HLS/DASH-Paketierung, ffmpeg-Transcode-Leitern, CMAF-Niedriglatenz, DRM, CDN-Zustellung und QoE-gesteuerte Player-Abstimmung."
+  },
+  "visionOS Spatial Engineer": {
+    "name": "visionOS-Spatial-Ingenieur",
+    "description": "Native visionOS räumliches Rechnen, SwiftUI volumetrische Schnittstellen und Liquid-Glass-Design-Implementierung"
+  },
+  "Visual Storyteller": {
+    "name": "Visueller Storyteller",
+    "description": "Experte für visuelle Kommunikation, spezialisiert auf die Erstellung überzeugender visueller Erzählungen, multimedialer Inhalte und Markenstorytelling durch Design."
+  },
+  "Voice AI Integration Engineer": {
+    "name": "Voice-AI-Integrationsingenieur",
+    "description": "Experte im Aufbau von End-to-End-Spracherkennungspipelines unter Verwendung von Whisper-ähnlichen Modellen und Cloud-ASR-Diensten – von der Roh-Audioaufnahme über die Vorverarbeitung, Transkriptbereinigung, Untertitelgenerierung bis hin zur Sprecherdiarisierung"
+  },
+  "Web GIS Developer": {
+    "name": "Web-GIS-Entwickler",
+    "description": "Full-Stack-Web-GIS-Ingenieur, der interaktive Kartenanwendungen erstellt — MapLibre GL JS, ArcGIS JS API, Leaflet, Echtzeit-Dashboards, REST-API-Integration und geospatiale Webdienste."
+  },
+  "WebAssembly Engineer": {
+    "name": "WebAssembly-Ingenieur",
+    "description": "Experte für WebAssembly — Kompilierung von Rust/C++/Go zu Wasm, JS-Interoperabilität und die Kosten der Grenzmarshalisierung, WASI und serverseitige Laufzeiten (Wasmtime/Wasmer), das Komponentenmodell und Near-Native-Performance-Tuning."
+  },
+  "WeChat Mini Program Developer": {
+    "name": "WeChat-Mini-Program-Entwickler",
+    "description": "Experte für WeChat Mini-Programme, spezialisiert auf die Entwicklung von 小程序 mit WXML/WXSS/WXS, Integration der WeChat-API, Zahlungssystemen, Abonnementnachrichten und dem gesamten WeChat-Ökosystem."
+  },
+  "WeChat Official Account Manager": {
+    "name": "WeChat-Official-Account-Manager",
+    "description": "Experte für WeChat Official Accounts (OA), spezialisiert auf Content-Marketing, Abonnentenbindung und Conversion-Optimierung."
+  },
+  "Weibo Strategist": {
+    "name": "Weibo-Stratege",
+    "description": "Experte für Full-Spectrum-Operationen bei Sina Weibo mit tiefgehender Expertise in Mechanismen von Trendthemen, Management von Super-Topic-Communities, Überwachung der öffentlichen Stimmung, Strategien der Fan-Ökonomie und Werbung auf Weibo"
+  },
+  "Whimsy Injector": {
+    "name": "Whimsy-Injektor",
+    "description": "Experten für kreative Gestaltung, der sich darauf konzentriert, Persönlichkeit, Freude und spielerische Elemente zu Markenerlebnissen hinzuzufügen."
+  },
+  "WordPress Performance Engineer": {
+    "name": "WordPress-Performance-Ingenieur",
+    "description": "Experte für WordPress-Leistungsoptimierung, spezialisiert auf Core Web Vitals, Objekt-Cache (Redis/Memcached), Seiten-Cache, Datenbank- und WP_Query-Optimierung, die Transients-API, Asset-Minimierung/Verzögerung/Critical CSS, Bildoptimierung und Lazy Loading"
+  },
+  "WordPress Shopping Cart Engineer": {
+    "name": "WordPress-Commerce-Ingenieur",
+    "description": "Experte für WordPress-E-Commerce-Entwicklung, spezialisiert auf WooCommerce für die Verwaltung von Produktkatalogen, Integration von Zahlungs-Gateways, Anpassung des Checkouts, Auftragsverwaltung, Konfiguration von Steuern und Gutscheinen sowie lieferoptimierte Gestaltung von storefronts auf WordPress"
+  },
+  "Workflow Architect": {
+    "name": "Workflow-Architekt",
+    "description": "Spezialist für Workflow-Design, der vollständige Workflow-Bäume für jedes System, jede Benutzerreise und jede Agenteninteraktion abbildet — einschließlich reibungsloser Abläufe, aller Verzweigungsbedingungen, Fehlermodi, Wiederherstellungspfade und Übergabeverträge"
+  },
+  "Workflow Optimizer": {
+    "name": "Workflow-Optimierer",
+    "description": "Experte für Prozessverbesserung mit Schwerpunkt auf der Analyse, Optimierung und Automatisierung von Arbeitsabläufen in allen Geschäftsbereichen für maximale Produktivität und Effizienz"
+  },
+  "X/Twitter Intelligence Analyst": {
+    "name": "X/Twitter-Intelligence-Analyst",
+    "description": "Spezialist für soziale Intelligenz für X/Twitter-Forschung, Trendanalyse, Kontoüberwachung und evidenzbasierte Zielgruppeninformationen unter Verwendung öffentlicher Signale und strukturierter Datenabläufe."
+  },
+  "Xiaohongshu Specialist": {
+    "name": "Xiaohongshu-Spezialist",
+    "description": "Experte für Xiaohongshu-Marketing, spezialisiert auf Lifestyle-Inhalte, trendbasierte Strategien und authentisches Community-Engagement."
+  },
+  "XR Cockpit Interaction Specialist": {
+    "name": "XR-Cockpit-Interaktionsspezialist",
+    "description": "Spezialist in der Gestaltung und Entwicklung immersiver cockpitbasierter Steuerungssysteme für XR-Umgebungen"
+  },
+  "XR Immersive Developer": {
+    "name": "XR-Immersive-Entwickler",
+    "description": "Experte für WebXR und immersive Technologien mit Spezialisierung auf browserbasierte AR/VR/XR-Anwendungen"
+  },
+  "XR Interface Architect": {
+    "name": "XR-Interface-Architekt",
+    "description": "Räumlicher Interaktionsdesigner und Schnittstellenstratege für immersive AR/VR/XR-Umgebungen"
+  },
+  "Zhihu Strategist": {
+    "name": "Zhihu-Stratege",
+    "description": "Experte für Zhihu-Marketing, spezialisiert auf Thought Leadership, Glaubwürdigkeit in der Community und wissensgesteuertes Engagement."
+  },
+  "ZK Steward": {
+    "name": "ZK-Steward",
+    "description": "Wissensdatenbankverwalter im Geiste von Niklas Luhmanns Zettelkasten."
+  }
+}
